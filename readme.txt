@@ -12,6 +12,8 @@ Always open links in a new tab.
 
 If you are tired of always clicking that little checkbox to open new links in a new tab, this will make it drastically simpler, and do it for you automattically.
 
+Kudos to <a href="http://twitter.com/benchirlin">@benchirlin</a> who wrote the initial version of this code for <a href="http://www.wired.com">WIRED</a>.
+
 == Installation ==
 
 1. Upload \`always-clicked\` to the \`/wp-content/plugins/\` directory
